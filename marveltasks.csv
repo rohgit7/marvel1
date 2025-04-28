@@ -1,0 +1,20 @@
+,Level 1,Level 2,Level 3,Level 4
+1,TASK 1: 3D Printing,TASK 1: Working of a Version Control,TASK 1: AWS Lambda,Task 1 - Encryption
+2,TASK 2: API,TASK 2: Database task - DynamoDB,TASK 2: CI/CD (Continuous Integration & Continuous Delivery) - Intro to Jenkins,Task 2 - Hashing
+3,TASK 3: Working with Github,TASK 3: Create an application on EC2 instance,TASK 3: SSH,Task 3 - SSH
+4,TASK 4: Get familiar with the command line on ubuntu and do the following subtasks:,TASK 4: AWS CloudFront - Serve content from multiple S3 buckets,TASK 4: Terraform,Task 4 - NMap
+5,TASK 5: Kaggle contest,TASK 5: Kali Linux,TASK 5: Wireshark,Task 5 - NMap Continued
+6,TASK 6: Working with Pandas and Matplotlib:,TASK 6: Socket.IO,TASK 6: Docker,
+7,TASK 7: Create a Portfolio Webpage,TASK 7: OSI,TASK 7: Docker File Spyware,
+8,TASK 8: Writing Resource Article using Markdown,"TASK 8: IaaS, PaaS and SaaS",TASK 8: Web Scraping and Automation - Flight Ticket Price Analysis,
+9,TASK 9: Tinkercad,TASK 9: Encryption Techniques - Secure Messaging App,TASK 9: Hashing,
+10,TASK 10: Speed Control of DC Motor,TASK 10: IP Addressing and Web Scraping - Job Listings Scraper,TASK 10: NMap,
+11,TASK 11: LED Toggle Using ESP32,,,
+12,TASK 12: Soldering Prerequisites,,,
+13,TASK 13:,,,
+14,TASK 14: Karnaugh Maps and Deriving the logic circuit,,,
+15,TASK 15: Active Participation:,,,
+16,TASK 16: Datasheets report writing:,,,
+17,Task 17: Introduction to VR,,,
+18,"TASK 18: Sad servers - ""Like LeetCode for Linux""",,,
+19,Task 19: Make a Web app,,,
