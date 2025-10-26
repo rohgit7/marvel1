@@ -2,7 +2,7 @@
 ## 💻 Raspberry Pi Network Attached Storage (NAS) System
 
 **Project Objective:**  
-To design, build, and configure a cost-effective and portable **Network Attached Storage (NAS)** solution using a **Raspberry Pi 4** for centralized file storage and easy access across multiple devices.
+To design, build, and configure a cost-effective and portable **Network Attached Storage (NAS)** solution using a **Raspberry Pi 4** for centralized file storage and easy access across multiple devices connected to the same network.
 
 **Platform:** Raspberry Pi 4 (4GB/8GB RAM)  
 **Operating System:** Raspberry Pi OS Lite (64-bit)  
