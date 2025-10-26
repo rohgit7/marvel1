@@ -4,7 +4,7 @@
 **Project Objective:**  
 To design, build, and configure a cost-effective and portable **Network Attached Storage (NAS)** solution using a **Raspberry Pi 4** for centralized file storage and easy access across multiple devices connected to the same network.
 
-**Platform:** Raspberry Pi 4 (4GB/8GB RAM)  
+**Platform:** Raspberry Pi 5 (4GB RAM)  
 **Operating System:** Raspberry Pi OS Lite (64-bit)  
 **NAS Software:** OpenMediaVault (OMV)
 
@@ -16,7 +16,7 @@ The project utilized readily available, low-power components to create a reliabl
 
 #### 1.1 Hardware Components
 
-- **Raspberry Pi 4:** Chosen for its gigabit Ethernet port and USB 3.0 support, offering high-speed data transfers.  
+- **Raspberry Pi 5:** Chosen for its gigabit Ethernet port and USB 3.0 support, offering high-speed data transfers.  
 - **Storage:** A high-speed **USB 3.0 External Hard Drive** (or SSD) was used for data storage.  
 - **Accessories:** Micro SD card for the OS, power adapter, and an Ethernet cable (preferred over Wi-Fi for improved stability and performance).
 
@@ -72,7 +72,7 @@ sudo apt update && sudo apt upgrade -y
 
 ### 4. Conclusion
 
-This project successfully transformed a **Raspberry Pi 4** into a functional and efficient **Network Attached Storage (NAS)** system.
+This project successfully transformed a **Raspberry Pi 5** into a functional and efficient **Network Attached Storage (NAS)** system.
 The setup offers **centralized file storage**, **simple web-based management**, and **seamless file access** over the network — all while maintaining **low power consumption** and **cost-effectiveness**.
 
 It demonstrates how open-source tools like **OpenMediaVault (OMV)** can turn affordable hardware into a **reliable storage and backup solution** suitable for both **personal** and **small office environments**.
