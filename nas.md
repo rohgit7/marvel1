@@ -56,7 +56,7 @@ sudo apt update && sudo apt upgrade -y
 
 * **Accessing Web Interface:** Logged into the OMV dashboard via `http://<Pi_IP>`.
 * **Drive Setup:** The external USB drive was detected, mounted, and formatted (preferably as **EXT4**) under **Storage > File Systems**.
-* **Shared Folder Creation:** A dedicated shared folder named **nasty** was created on the mounted drive. The **pi user** was granted **read/write permissions**.
+* **Shared Folder Creation:** A dedicated shared folder was created on the mounted drive. The **pi user** was granted **read/write permissions**.
 * **Network Protocols:** Enabled and configured **SMB/CIFS** (for Windows) and **NFS** (for Linux/macOS) to make the shared folder accessible across devices.
 
 ---
